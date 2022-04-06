@@ -1,0 +1,2 @@
+{: .box-note}
+**Disclaimer:** I am a doctor and a mum, but by no means an expert in short gut syndrome and/or home parenteral nutrition, and certainly not a professor of gastroenterology. The information on this website is accurate to my knowledge, but please always refer to your health professional if you are unsure.
