@@ -10,10 +10,6 @@ Intestinal failure
 Short Gut Syndrome
 : Malabsorption caused by lack of functional small intestine
 
-*[GI Tract]: gastrointestinal tract, the passage that runs from the mouth down to the anus
-*[GI tract]: gastrointestinal tract, the passage that runs from the mouth down to the anus
-
-
 # The GI Tract
 
 So it turns out the intestines are actually pretty important. 
