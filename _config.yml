@@ -254,6 +254,8 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - .vscode/
+  - .github/
 
 plugins:
   - jekyll-paginate
@@ -262,5 +264,5 @@ plugins:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
-port: 4010
+port: 4000
 livereload: true

@@ -1,0 +1,29 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Jekyll: Build Dev",
+            "detail": "jekyll serve",
+            "type": "shell",
+            "windows":{
+                "command": "bundle exec jekyll serve --livereload --open-url"
+            },
+            "group":{
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": false
+            },
+            "isBackground": true,
+            "problemMatcher": ["$jekyll-error-watch", "$jekyll-warning-watch"]
+        }
+            ]
+}
