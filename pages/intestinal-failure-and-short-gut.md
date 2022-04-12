@@ -2,6 +2,7 @@
 layout: page
 title: Intestinal Failure and Short Gut
 last-updated: "2022-04-06"
+cover-img: "assets/img/thumbnail-laurie.jpg"
 ---
 
 Intestinal failure
